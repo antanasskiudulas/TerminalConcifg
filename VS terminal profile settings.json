@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
+    "window.zoomLevel": 2,
+    "dotnet.help.firstView": "gettingStarted",
+    "extensions.confirmedUriHandlerExtensionIds": [
+        "ms-dotnettools.dotnet-interactive-vscode",
+        "ms-dotnettools.vscode-dotnet-pack"
+    ],
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font",
+    "workbench.editor.untitled.hint": "hidden",
+    "terminal.integrated.defaultProfile.windows": "PowerShell"
+}
